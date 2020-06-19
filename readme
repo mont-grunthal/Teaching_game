@@ -1,1 +1,14 @@
-this is just a test to help me learn github
+This is just a little teaching demonstration I put together with my girlfriend
+to teach her the usefulness of hash maps in certain situations. The two rock.py
+files are implementations of a rock, paper, scissors console game. The first
+uses a large elif block to determine the winner and the second uses a python
+dictionary. Comparison.py runs each rock.py game 10000000 times and reports the
+difference in speed between the two implementations.
+
+After having her take the lead on implementing the game and displaying the
+difference in speed we were able to significantly improve her
+understanding of python programming*.
+
+*The improvement in understanding was reported by someone who loves me
+so there is a very real chance the results were skewed by that fact.
+In any case, I had fun.
